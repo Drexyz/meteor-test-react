@@ -1,0 +1,31 @@
+.bg {
+  background-color: #282c34;
+  height: 100vh;
+}
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 50px;
+  margin-left: 50px;
+  margin-top: 20vh;
+  border-radius: 10px;
+}
+
+.form input {
+  width: 300px;
+}
+
+.btn {
+  border: none;
+  margin-left: 5px;
+  background-color: unset;
+}

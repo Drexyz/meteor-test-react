@@ -1,0 +1,9 @@
+.bg {
+  background-color: #282c34;
+  height: 100vh;
+  padding-top: 100px;
+  color: white;
+}
+.bg h1 {
+  color: white;
+}

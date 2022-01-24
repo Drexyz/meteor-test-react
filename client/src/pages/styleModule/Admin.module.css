@@ -1,0 +1,25 @@
+.bg {
+  background-color: #282c34;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  text-align: center;
+  margin-top: 50px;
+  color: blue;
+}
+.add {
+  align-self: flex-end;
+  margin-top: 100px;
+}
+.table {
+  width: 1000px;
+  background-color: white;
+  border: black;
+  text-align: center;
+}
